@@ -26,10 +26,3 @@
     Run the application and create an account, log out and log back in and see your fitness plan has been saved.
   ## URL
 https://fitness-buddy-2.herokuapp.com/
-  ## Questions
-  :alien: email me!<br />
-  <br />
-  :octocat: Find me on GitHub: [Cluce059](https://github.com/Cluce059)<br />
-  <br />
-  :speech_balloon: Email: Cluce059@gmail.com<br /><br />
-  _This README was generated with :heart: by [README-generator](https://github.com/Cluce059/readme-generator)  :eyes::eyes::eyes:_
